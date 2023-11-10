@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Kangal edho",
+      "url": "https://static.toiimg.com/thumb/msid-103266123,width-1280,resizemode-4/103266123.jpg",
+      "embedLink": "https://www.youtube.com/embed/EJ8HP6QMwvI"
+    },
+    {
+      "id": "2",
+      "caption": "Leo badass",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/second-track-badass-from-thalapathy-vijays-leo-will-release-on-september-28-272346380-16x9.jpg?VersionId=XpzDqWNDkrtBevS0gfdJg3BF6FBvZw9C",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "4",
+      "caption": "Kotha",
+      "url": "https://gumlet.assettype.com/thenewsminute%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fkok-review-250823-1200.jpg?auto=format%2Ccompress&fit=max&w=1200",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Malayalam songs",
+      "allvideos": [
+        {
+          "id": "4",
+          "caption": "Kotha",
+          "url": "https://gumlet.assettype.com/thenewsminute%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fkok-review-250823-1200.jpg?auto=format%2Ccompress&fit=max&w=1200",
+          "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi songs",
+      "allvideos": [
+        {
+          "id": "1",
+          "caption": "Kangal edho",
+          "url": "https://static.toiimg.com/thumb/msid-103266123,width-1280,resizemode-4/103266123.jpg",
+          "embedLink": "https://www.youtube.com/embed/EJ8HP6QMwvI"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Tamil songs",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "Leo badass",
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/second-track-badass-from-thalapathy-vijays-leo-will-release-on-september-28-272346380-16x9.jpg?VersionId=XpzDqWNDkrtBevS0gfdJg3BF6FBvZw9C",
+          "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Tutorials",
+      "allvideos": [
+        {
+          "id": "4",
+          "caption": "Kotha",
+          "url": "https://gumlet.assettype.com/thenewsminute%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fkok-review-250823-1200.jpg?auto=format%2Ccompress&fit=max&w=1200",
+          "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Leo badass",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timestamp": "08/11/2023, 13:58:29",
+      "id": 1
+    }
+  ]
+}
